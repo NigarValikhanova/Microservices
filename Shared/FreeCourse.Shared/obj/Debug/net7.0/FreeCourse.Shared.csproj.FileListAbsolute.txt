@@ -1,0 +1,11 @@
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\bin\Debug\net7.0\FreeCourse.Shared.deps.json
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\bin\Debug\net7.0\FreeCourse.Shared.dll
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\bin\Debug\net7.0\FreeCourse.Shared.pdb
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\FreeCourse.Shared.AssemblyInfo.cs
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\FreeCourse.Shared.dll
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\refint\FreeCourse.Shared.dll
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\FreeCourse.Shared.pdb
+C:\Users\asus\Source\Repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net7.0\ref\FreeCourse.Shared.dll
