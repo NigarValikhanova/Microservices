@@ -17,6 +17,7 @@ namespace FreeCourse.Services.Catalog.Controllers
             _courseService = courseService;
         }
 
+        [HttpGet]
         public async Task<IActionResult> GetAll()
         {
             var response = await _courseService.GetAllAsync();
@@ -32,6 +33,7 @@ namespace FreeCourse.Services.Catalog.Controllers
 
         //Id və UserId bir birinə qarışmasın deyə spesifik route verdim
         //api/courses/getallbyuserid/4
+        [HttpGet]
         [Route("/api/[controller]/GetAllByUserId/{userId}")]
         public async Task<IActionResult> GetALlByUserId(string userId)
         {
